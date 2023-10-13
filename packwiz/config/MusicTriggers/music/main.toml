@@ -1,0 +1,86 @@
+[triggers]
+	[triggers.universal]
+		fade_in = "300"
+		fade_out = "300"
+	[[triggers.mob]]
+		identifier = "corrupted_ogre"
+		resource_name = [ "Corrupted Ogre" ]
+		priority = 100
+		level = 1
+		detection_range = 32
+		mob_targeting = true
+	[[triggers.mob]]
+		identifier = "knight_boss"
+		resource_name = [ "Knight Rober, Primordial One" ]
+		priority = 101
+		level = 1
+		detection_range = 32
+		mob_targeting = true
+	[[triggers.mob]]
+		identifier = "nine_tails_boss"
+		resource_name = [ "Nine Tails" ]
+		priority = 100
+		level = 1
+		detection_range = 32
+		mob_targeting = true
+	[[triggers.mob]]
+		identifier = "skeleton_lord_boss"
+		resource_name = [ "Lord of Sorcery, the Skeleton Overlord" ]
+		priority = 100
+		level = 1
+		detection_range = 64
+		mob_targeting = true
+	[[triggers.mob]]
+		identifier = "martian_boss"
+		resource_name = [ "Martian" ]
+		priority = 100
+		level = 1
+		detection_range = 48
+		mob_targeting = true
+	[[triggers.mob]]
+		identifier = "sentinel_knight_boss"
+		resource_name = [ "Sentinel Knight" ]
+		priority = 100
+		level = 1
+		detection_range = 36
+		mob_targeting = true
+	[[triggers.mob]]
+		identifier = "fire_giant"
+		resource_name = [ "Fire Giant" ]
+		priority = 100
+		level = 1
+		detection_range = 64
+	[[triggers.mob]]
+		identifier = "elemental_deity"
+		resource_name = [ "Elemental Deity" ]
+		priority = 100
+		level = 1
+		detection_range = 64
+		mob_targeting = true
+	[[triggers.mob]]
+		identifier = "notch"
+		resource_name = [ "Notch" ]
+		priority = 100
+		level = 1
+		detection_range = 64
+		mob_targeting = true
+
+[songs]
+	[songs.corrupted_ogre]
+		triggers = [ "mob-corrupted_ogre" ]
+	[songs.knight]
+		triggers = [ "mob-knight_boss" ]
+	[songs.nine_tails]
+		triggers = [ "mob-nine_tails_boss" ]
+	[songs.skeleton_lord]
+		triggers = [ "mob-skeleton_lord_boss" ]
+	[songs.martian]
+		triggers = [ "mob-martian_boss" ]
+	[songs.sentinel_knight]
+		triggers = [ "mob-sentinel_knight_boss" ]
+	[songs.fire_giant]
+		triggers = [ "mob-fire_giant" ]
+	[songs.elemental_deity]
+		triggers = [ "mob-elemental_deity" ]
+	[songs.notch]
+		triggers = [ "mob-notch" ]

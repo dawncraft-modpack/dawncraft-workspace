@@ -1,2 +1,0 @@
-#Mon Oct 02 02:19:44 TRT 2023
-MOTION_BLUR=false
