@@ -1,0 +1,80 @@
+type = menu
+
+customization-meta {
+  identifier = serverhelp
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = Why is it taking so long to join a server%n%and how to fix it
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = config/fancymenu/image/patreon_bg.png
+  orientation = mid-centered
+  x = -393
+  width = 787
+  action = addtexture
+  actionid = 4545cf9a-acbd-4428-90dd-9cb8822a1c131677511744155
+  y = -201
+  height = 470
+}
+
+customization {
+  path = config/fancymenu/image/patron_emote.gif
+  orientation = top-centered
+  x = 197
+  width = 94
+  action = addtexture
+  actionid = 72b5f941-3b38-45d5-9737-b034503a59b31677511032183
+  y = 161
+  vr:showif:fullscreen = true
+  height = 124
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  buttonaction = closegui
+  backgroundhovered = config/fancymenu/image/back.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = 68
+  width = 47
+  actionid = 606190ae-192b-41db-a036-650394b0ffeb1677513154723
+  action = addbutton
+  y = 53
+  backgroundnormal = config/fancymenu/image/back_hover.png
+  value = null
+  height = 39
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = config/fancymenu/image/join_hover.png
+  label = 
+  loopbackgroundanimations = true
+  hoverlabel = 
+  x = -319
+  width = 636
+  actionid = 93770945-a97c-440d-8193-f1fe0ac798531677513354670
+  action = addbutton
+  y = -203
+  backgroundnormal = config/fancymenu/image/join.png
+  value = https://www.patreon.com/bstylia14
+  height = 111
+}
+

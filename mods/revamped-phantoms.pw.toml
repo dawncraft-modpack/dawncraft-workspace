@@ -1,0 +1,13 @@
+name = "Revamped Phantoms"
+filename = "revamped_phantoms-forge-0.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "665f652b83fcdc6d09434f4f2ced2013059673d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3694669
+project-id = 575418

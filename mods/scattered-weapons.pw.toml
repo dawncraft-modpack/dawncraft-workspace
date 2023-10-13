@@ -1,0 +1,13 @@
+name = "scattered weapons"
+filename = "scatterd_weapons-1.18.2-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "51fe5bd74d1a16e41d1065a40e75b4e30d3c90e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3795925
+project-id = 618841

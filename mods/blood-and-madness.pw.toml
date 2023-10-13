@@ -1,0 +1,13 @@
+name = "Blood And Madness (A Bloodborne Inspired Mod)"
+filename = "BloodAndMadness-Forge1.18.2-v2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8af9b7718358a0d9ac01c8a6d75defd01d2a438"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4536670
+project-id = 461017

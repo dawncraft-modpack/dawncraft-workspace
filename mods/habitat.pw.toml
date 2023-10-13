@@ -1,0 +1,13 @@
+name = "Habitat"
+filename = "habitat-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dfe6416b8897d0b7962f86b07bb02deef1d84430"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4057134
+project-id = 422972

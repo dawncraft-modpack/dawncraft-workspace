@@ -1,0 +1,13 @@
+name = "BraincellAPI"
+filename = "braincell-1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a2183c8192b6452c9a9e2184cad2c0b9f9420c32"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3820306
+project-id = 616354

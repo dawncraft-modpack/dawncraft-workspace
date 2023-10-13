@@ -1,0 +1,102 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = true
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/drippyloadingscreen/image/slide11.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 105
+  width = 270
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = acfab066-3e23-4ce6-80d2-c47e77d890c21677570184058
+  y = 102
+  height = 66
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = bec28d1a-d894-4739-810f-fbbc013c277d1677570184069
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 105
+  width = 270
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 641531cb-1d2e-4b35-abab-531b839a3ced1677570184069
+  y = 219
+  height = 10
+}
+
+customization {
+  orientation = bottom-right
+  background_texture = config/drippyloadingscreen/image/loading_bg.png
+  bar_texture = config/drippyloadingscreen/image/loading_bar.png
+  progress_for_element_orientation = false
+  background_color = #ABC8F7
+  x = -101
+  width = 101
+  bar_color = #5295FF
+  action = custom_layout_element:drippy_custom_loading_bar
+  actionid = 5c4d0039-3f9a-479d-a8f4-6fd40ae25be21677570220735
+  y = -14
+  direction = right
+  height = 14
+}
+
+customization {
+  path = config/drippyloadingscreen/image/loading_text.png
+  orientation = bottom-right
+  x = -101
+  width = 51
+  action = addtexture
+  actionid = 5ce48e76-ea13-4b9e-9406-90f794f5218d1677571205876
+  y = -25
+  height = 10
+}
+
+customization {
+  path = config/drippyloadingscreen/image/mojang_logo.png
+  orientation = bottom-left
+  x = 3
+  width = 83
+  action = addtexture
+  actionid = 24bef35d-d4c8-4f73-ad56-88275936b72a1677572015718
+  y = -25
+  height = 21
+}
+
+customization {
+  path = config/drippyloadingscreen/image/curseforge_logo.png
+  orientation = bottom-left
+  x = 89
+  width = 23
+  action = addtexture
+  actionid = 7d6b77dc-3ece-465f-9b8f-bc6ce1983a271677572262620
+  y = -24
+  height = 13
+}
+

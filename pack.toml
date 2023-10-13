@@ -1,0 +1,13 @@
+name = "Dawncraft"
+author = "InteJason"
+version = "1.31.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "24532f21b12031c18dfe18e86315ab3d6f31d79cce36aeb38b517cb609cb94c7"
+
+[versions]
+forge = "40.2.10"
+minecraft = "1.18.2"

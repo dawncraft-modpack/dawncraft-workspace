@@ -1,0 +1,13 @@
+name = "Presence Not Required"
+filename = "PresenceNotRequired-Forge-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4380b7fd3d5de4bb0d9e792eb390afca23b3a19"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3768305
+project-id = 597903

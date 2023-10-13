@@ -1,0 +1,13 @@
+name = "Harder Monster Boats  (finer boat control)"
+filename = "HarderMonsterBoats-1.18.1-39.1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aafb825446ab7bb9235549f64977a97402c9908d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3925951
+project-id = 657633

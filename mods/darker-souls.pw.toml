@@ -1,0 +1,13 @@
+name = "Darker Souls"
+filename = "DarkerSouls1.18.2Forgev1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2bc0080281e1856ca6972bb3631b0ac4e617ee77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4429881
+project-id = 687276

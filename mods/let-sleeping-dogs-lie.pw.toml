@@ -1,0 +1,13 @@
+name = "Let Sleeping Dogs Lie (Forge)"
+filename = "LetSleepingDogsLie-1.18-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7c4bb9b84c60cb759f782941b404e19f4ec4c72"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3548401
+project-id = 334098

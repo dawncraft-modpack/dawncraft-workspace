@@ -1,0 +1,13 @@
+name = "ArmoreableMobs"
+filename = "ArmoreableMobs-forge-1.18.2-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec2cf20179ba06dfe147681eabbda662c8c022f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3846382
+project-id = 281316

@@ -1,0 +1,13 @@
+name = "Shrines Structures"
+filename = "Shrines-1.18.2-4.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0857a406229642c608092150c3346c9e044e6eb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836227
+project-id = 418915

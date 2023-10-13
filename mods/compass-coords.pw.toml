@@ -1,0 +1,13 @@
+name = "Compass Coords"
+filename = "CompassCoords-1.4.0-mc1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b216d0e8796cdae4c5ad9d23ce24653e4696c08"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3765883
+project-id = 368398

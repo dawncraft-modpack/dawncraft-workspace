@@ -1,0 +1,13 @@
+name = "Restored Earth"
+filename = "restored_earth-1.18.2-1.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "44962473de0322d9069286f81ef75e8cc3504a30"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3763312
+project-id = 523197

@@ -1,0 +1,13 @@
+name = "Excalibur Mod Support"
+filename = "Excalibur_Mod_Support_V1.18.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb15cf834097948b5931572997db69109230f9b7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3642600
+project-id = 577462

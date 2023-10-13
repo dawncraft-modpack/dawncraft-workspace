@@ -1,0 +1,48 @@
+
+[Stamina]
+	#How much more/less stamina is consumed from all melee attacks.
+	#Range: 0.0 ~ 10.0
+	baseMeleeStaminaConsumption = 0.8
+	#How much more/less stamina is consumed from daggers (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	daggerStaminaConsumption = 2.5
+	#How much more/less stamina is consumed from swords (stacks with baseMeleeStaminaConsumption)..
+	#Range: 0.0 ~ 10.0
+	swordStaminaConsumption = 2.5
+	#How much more/less stamina is consumed from longswords (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	longSwordConsumption = 2.5
+	#How much more/less stamina is consumed from greatswords (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	greatSwordStaminaConsumption = 1.6
+	#How much more/less stamina is consumed from katanas (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	katanaStaminaConsumption = 2.5
+	#How much more/less stamina is consumed from tachis (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	tachiStaminaConsumption = 2.0
+	#How much more/less stamina is consumed from spears (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	spearStaminaConsumption = 2.5
+	#How much more/less stamina is consumed from knuckles (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	knuckleStaminaConsumption = 2.0
+	#How much more/less stamina is consumed from axes (stacks with baseMeleeStaminaConsumption).
+	#Range: 0.0 ~ 10.0
+	axeStaminaConsumption = 2.5
+	#How much more/less stamina is consumed from ranged attacks with bows or crossbows.
+	#Range: 0.0 ~ 10.0
+	baseRangedStaminaConsumption = 0.5
+	#How much more/less stamina is consumed from using block skills.
+	#Range: 0.0 ~ 10.0
+	baseBlockStaminaConsumption = 1.0
+	#How much more/less stamina is consumed from dodge skills.
+	#Range: 0.0 ~ 10.0
+	baseDodgeStaminaConsumption = 2.2
+	#The effect ID that will be applied when a player runs out of stamina (default is Mining Fatigue and Weakness respectively).
+	#Refer to https://minecraft.fandom.com/wiki/Effect#Effect_list for a list of the effects and their corresponding IDs
+	effects = [4, 18]
+	#The strength applied to the depletion effect above (The default is 2 and 7. A value such as 4 would apply Weakness IV).
+	#If no value is set here, and an extra effect is added above, then the effect strength will default to 1.
+	effects_strength = [5, 1]
+

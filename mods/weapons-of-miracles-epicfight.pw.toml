@@ -1,0 +1,13 @@
+name = "Weapons of Miracles - epic fight"
+filename = "WeaponsOfMiracles-18.1.7.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "656cb065013d744ea64e90ba324fe1827e7247ab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4793927
+project-id = 918614

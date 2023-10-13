@@ -1,0 +1,13 @@
+name = "Quest Giver"
+filename = "Quest_Giver-1.18.2-1.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "543dedd16bb41ceff9382d18a0b02795297f93c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4586115
+project-id = 618562

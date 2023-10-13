@@ -1,0 +1,13 @@
+name = "Danny's Expansion"
+filename = "dannys_expansion-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c309b67b11964bda5a899bc59ee9e552e572439"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3820328
+project-id = 425918

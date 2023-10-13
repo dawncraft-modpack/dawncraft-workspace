@@ -1,0 +1,13 @@
+name = "Claim Chunk"
+filename = "ClaimChunk-1.18-1.0.17.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47a2d78f530d650ff7f121babc16cbbc9fe59d56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4541335
+project-id = 397443

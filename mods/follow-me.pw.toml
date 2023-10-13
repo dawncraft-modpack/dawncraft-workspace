@@ -1,0 +1,13 @@
+name = "Follow Me"
+filename = "Follow-Me-1.18-1.1.8a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "536e3eaefe17865ea0e52d458a73ccccb33a5a70"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3919507
+project-id = 463841

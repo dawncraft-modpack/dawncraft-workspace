@@ -1,0 +1,13 @@
+name = "THE UNDEAD REVAMPED"
+filename = "THEUNDEADREVAMPED_DAWNCRAFT_V2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "61c88fe285234a68d092e9995a042c7fc7bf6bed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4784437
+project-id = 479710

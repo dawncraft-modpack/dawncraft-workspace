@@ -1,0 +1,13 @@
+name = "Recipe Stages"
+filename = "RecipeStages-3.0.0.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "858d59d8783a39a45fdffa6f2f012fe54785524c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4019265
+project-id = 280554

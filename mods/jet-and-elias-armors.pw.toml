@@ -1,0 +1,13 @@
+name = "Jet and Elia's Armors"
+filename = "JetAndEliasArmors1.4.1-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3e5b44299c25170c7bb1daaa085a40d4236b240"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4487504
+project-id = 771275

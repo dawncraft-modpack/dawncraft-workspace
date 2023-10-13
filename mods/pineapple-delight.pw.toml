@@ -1,0 +1,13 @@
+name = "Pineapple Delight"
+filename = "PineappleDelight-Forge-1.18.2-1.0.6-Fix1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "616f3656ffc4847c23c313cf8f2be13ba3f6e722"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4554347
+project-id = 687974

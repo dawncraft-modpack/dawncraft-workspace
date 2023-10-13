@@ -1,0 +1,13 @@
+name = "DawnCraft Tweaks"
+filename = "DawnCraft-Tweaks-1.18.2-1.2.4b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8d0098403dd982734b901852285628260237180f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4783911
+project-id = 638098

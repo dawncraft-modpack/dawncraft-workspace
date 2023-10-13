@@ -1,0 +1,13 @@
+name = "Liberty's Villagers"
+filename = "libertyvillagers-2.0.0+forge+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c00de3ec0e753a5e6a7253ca668828837fb4022"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4738904
+project-id = 700485

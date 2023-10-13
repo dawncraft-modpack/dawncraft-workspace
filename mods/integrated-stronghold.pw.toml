@@ -1,0 +1,13 @@
+name = "Integrated Stronghold"
+filename = "integrated_stronghold_forge-1.0.2+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5bb7f4b112f6a2d834af403d43b1593fbb9ae9b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4558180
+project-id = 815548
