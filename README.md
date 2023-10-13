@@ -4,7 +4,7 @@
 
 ## Contributing
 
-### Open issue on Github
+### [Open issue on Github](https://github.com/dawncraft-modpack/dawncraft-workspace/issues/new/choose)
 
 Follow the issue template and submit valuable ticket.
 
